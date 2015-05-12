@@ -1,6 +1,13 @@
 # gortyn
 
-The Gortyn Law Code, permissively licensed in digital form, both in simple HTML and Penn Treebank-style annotation.
+The [Gortyn Law Code](http://en.wikipedia.org/wiki/Gortyn_code 'Wikipedia: Gortyn Code'), permissively licensed in a variety of digital formats.
+
+Formats:
+
+- simple HTML (`html/`)
+- annotated ("parsed") in the [Penn Treebank-style](http://www.ling.upenn.edu/~janabeck/greek-corpora.html 'Jana Beck: Parsed Corpora') (`psd/`)
+- token-delimited text (i.e., all tokens, including words *and* punctuation, separated by spaces) (`txt/`)
+- [TEI](http://www.tei-c.org/index.xml 'Text Encoding Initiative') XML (`xml/`)
 
 Contact: Jana Beck
 
