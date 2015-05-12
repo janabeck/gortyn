@@ -5,7 +5,7 @@ The [Gortyn Law Code](http://en.wikipedia.org/wiki/Gortyn_code 'Wikipedia: Gorty
 Formats:
 
 - simple HTML (`html/`)
-- annotated ("parsed") in the [Penn Treebank-style](http://www.ling.upenn.edu/~janabeck/greek-corpora.html 'Jana Beck: Parsed Corpora') (`psd/`)
+- annotated ("parsed") in the [Penn Treebank-style](http://www.ling.upenn.edu/~janabeck/greek-corpora.html 'Jana Beck: Parsed Corpora') (`tree/`)
 - token-delimited text (i.e., all tokens, including words *and* punctuation, separated by spaces) (`txt/`)
 - [TEI](http://www.tei-c.org/index.xml 'Text Encoding Initiative') XML (`xml/`)
 
